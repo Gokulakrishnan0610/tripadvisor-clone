@@ -13,7 +13,7 @@ HTML: Structuring the content and layout of the web pages.
 CSS: Styling the website to match the design and aesthetic of TripAdvisor.
 
 ## How to View
-You can access my tripadvisor-clone website by visiting [Link] Feel free to explore the content.
+You can access my tripadvisor-clone website by visiting [https://gokulakrishnan0610.github.io/tripadvisor-clone/] Feel free to explore the content.
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any improvements or new features you'd like to add.
