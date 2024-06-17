@@ -27,7 +27,10 @@ body {
     right: 1%;
     top: 30%;
 }
-
+.display--image__disc{
+    display: flex;
+    flex-direction: row;
+}
 
 
 
